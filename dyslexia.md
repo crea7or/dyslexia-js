@@ -1,10 +1,3 @@
----
-layout: post
-category : Programming
-tags : [dyslexia, typoglycemia, Javascript]
-title: Dsxyliea
----
-{% include JB/setup %}
 
 <h3>Симулятор дизлексии с помощью JavaScript'a</h3>
 <p>Моя подруга, которая имеет дизлексию объяснила мне, как она читает. Она может читать, но это требует очень большой концентрации внимания и буквы как будто прыгают с места на место.</p>
